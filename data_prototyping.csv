@@ -1,0 +1,460 @@
+age,sex,chest pain,resting blood pressure (mm Hg),cholestoral (mg/dl),fasting blood sugar > 120 mg/dl,resting electrocardiograph,max heart rate,exercise induced angina,oldpeak,slope,number of colored vessels by fluoroscopy,thalassemia,class
+44,male,asymptomatic,120.0,169.0,no,normal,144,yes,2.8,downsloping,0,6,disease
+36,male,non-anginal pain,130.0,209.0,no,normal,178,no,0.0,?,?,?,no disease
+39,female,non-anginal pain,110.0,182.0,no,abnormal,180,no,0.0,?,?,?,no disease
+48,male,asymptomatic,124.0,274.0,no,hypertrophy,166,no,0.5,flat,0,7,disease
+36,male,non-anginal pain,150.0,160.0,no,normal,172,no,0.0,?,?,?,no disease
+42,male,non-anginal pain,120.0,240.0,yes,normal,194,no,0.8,downsloping,0,7,no disease
+55,male,asymptomatic,120.0,270.0,no,normal,140,no,0.0,?,?,?,no disease
+46,female,atypical angina,105.0,204.0,no,normal,172,no,0.0,upsloping,0,3,no disease
+59,male,typical angina,178.0,270.0,no,hypertrophy,145,no,4.2,downsloping,0,7,no disease
+43,female,non-anginal pain,122.0,213.0,no,normal,165,no,0.2,flat,0,3,no disease
+37,male,non-anginal pain,130.0,194.0,no,normal,150,no,0.0,?,?,?,no disease
+55,male,non-anginal pain,120.0,220.0,no,hypertrophy,134,no,0.0,?,?,?,no disease
+45,male,atypical angina,140.0,224.0,yes,normal,122,no,0.0,?,?,?,no disease
+55,male,atypical angina,120.0,256.0,yes,normal,137,no,0.0,?,?,7,no disease
+39,female,non-anginal pain,94.0,199.0,no,normal,179,no,0.0,upsloping,0,3,no disease
+59,male,typical angina,170.0,288.0,no,hypertrophy,159,no,0.2,flat,0,7,disease
+45,female,asymptomatic,138.0,236.0,no,hypertrophy,152,yes,0.2,flat,0,3,no disease
+60,male,asymptomatic,?,195.0,no,normal,?,?,?,?,?,?,no disease
+40,male,typical angina,140.0,199.0,no,normal,178,yes,1.4,upsloping,0,7,no disease
+58,male,atypical angina,130.0,230.0,no,normal,150,no,0.0,?,?,?,no disease
+64,male,typical angina,170.0,227.0,no,hypertrophy,155,no,0.6,flat,0,7,no disease
+40,male,atypical angina,130.0,275.0,no,normal,150,no,0.0,?,?,?,no disease
+60,male,non-anginal pain,180.0,0.0,no,abnormal,140,yes,1.5,flat,?,?,no disease
+51,male,non-anginal pain,110.0,175.0,no,normal,123,no,0.6,upsloping,0,3,no disease
+34,male,atypical angina,150.0,214.0,no,abnormal,168,no,0.0,?,?,?,no disease
+55,male,atypical angina,110.0,214.0,yes,abnormal,180,no,?,?,?,?,no disease
+61,male,non-anginal pain,?,284.0,no,normal,?,?,?,?,?,?,disease
+41,female,atypical angina,125.0,184.0,no,normal,180,no,0.0,?,?,?,no disease
+42,female,non-anginal pain,120.0,209.0,no,normal,173,no,0.0,flat,0,3,no disease
+58,male,non-anginal pain,150.0,219.0,no,abnormal,118,yes,0.0,?,?,?,disease
+52,male,asymptomatic,128.0,255.0,no,normal,161,yes,0.0,upsloping,1,7,disease
+41,male,asymptomatic,120.0,237.0,?,normal,138,yes,1.0,flat,?,?,disease
+52,male,asymptomatic,112.0,342.0,no,abnormal,96,yes,1.0,flat,?,?,disease
+57,male,asymptomatic,110.0,335.0,no,normal,143,yes,3.0,flat,1,7,disease
+42,male,asymptomatic,140.0,358.0,no,normal,170,no,0.0,?,?,?,no disease
+37,female,atypical angina,120.0,260.0,no,normal,130,no,0.0,?,?,?,no disease
+57,male,non-anginal pain,150.0,126.0,yes,normal,173,no,0.2,upsloping,1,7,no disease
+60,male,asymptomatic,125.0,258.0,no,hypertrophy,141,yes,2.8,flat,1,7,disease
+58,male,atypical angina,130.0,251.0,no,normal,110,no,0.0,?,?,?,no disease
+60,male,non-anginal pain,120.0,246.0,no,hypertrophy,135,no,0.0,?,?,?,no disease
+37,female,asymptomatic,130.0,173.0,no,abnormal,184,no,0.0,?,?,?,no disease
+53,female,non-anginal pain,128.0,216.0,no,hypertrophy,115,no,0.0,upsloping,0,?,no disease
+51,male,atypical angina,130.0,224.0,no,normal,150,no,0.0,?,?,?,no disease
+45,male,asymptomatic,104.0,208.0,no,hypertrophy,148,yes,3.0,flat,0,3,no disease
+62,male,asymptomatic,150.0,0.0,?,abnormal,78,no,2.0,flat,?,7,disease
+42,male,asymptomatic,140.0,226.0,no,normal,178,no,0.0,upsloping,0,3,no disease
+66,female,typical angina,150.0,226.0,no,normal,114,no,2.6,downsloping,0,3,no disease
+65,male,asymptomatic,155.0,0.0,?,normal,154,no,1.0,upsloping,?,?,no disease
+64,male,asymptomatic,120.0,0.0,yes,abnormal,106,no,2.0,flat,?,?,disease
+58,female,asymptomatic,100.0,248.0,no,hypertrophy,122,no,1.0,flat,0,3,no disease
+49,female,non-anginal pain,130.0,207.0,no,abnormal,135,no,0.0,?,?,?,no disease
+43,female,typical angina,100.0,223.0,no,normal,142,no,0.0,?,?,?,no disease
+57,female,asymptomatic,140.0,241.0,no,normal,123,yes,0.2,flat,0,7,disease
+43,male,asymptomatic,110.0,211.0,no,normal,161,no,0.0,upsloping,0,7,no disease
+63,male,non-anginal pain,130.0,0.0,yes,abnormal,160,no,3.0,flat,?,?,no disease
+66,male,asymptomatic,160.0,228.0,no,hypertrophy,138,no,2.3,upsloping,0,6,no disease
+46,female,asymptomatic,130.0,238.0,no,normal,90,no,0.0,?,?,?,no disease
+51,female,non-anginal pain,130.0,256.0,no,hypertrophy,149,no,0.5,upsloping,0,3,no disease
+65,male,asymptomatic,120.0,177.0,no,normal,140,no,0.4,upsloping,0,7,no disease
+52,female,atypical angina,140.0,?,no,normal,140,no,0.0,?,?,?,no disease
+50,female,atypical angina,120.0,244.0,no,normal,162,no,1.1,upsloping,0,3,no disease
+61,male,atypical angina,?,283.0,no,normal,?,?,?,?,?,?,no disease
+47,male,typical angina,110.0,249.0,no,normal,150,no,0.0,?,?,?,no disease
+30,female,typical angina,170.0,237.0,no,abnormal,170,no,0.0,?,?,6,no disease
+56,female,non-anginal pain,130.0,219.0,?,abnormal,164,no,0.0,?,?,7,no disease
+68,male,typical angina,?,181.0,yes,abnormal,?,?,?,?,?,?,no disease
+43,female,atypical angina,120.0,215.0,no,abnormal,175,no,0.0,?,?,?,no disease
+61,male,non-anginal pain,200.0,0.0,?,abnormal,70,no,0.0,?,?,3,disease
+53,male,non-anginal pain,155.0,175.0,yes,abnormal,160,no,?,?,?,6,no disease
+52,male,atypical angina,128.0,205.0,yes,normal,184,no,0.0,upsloping,0,3,no disease
+62,male,asymptomatic,120.0,220.0,no,abnormal,86,no,0.0,?,?,?,no disease
+63,female,atypical angina,?,0.0,no,normal,?,?,?,?,?,?,no disease
+45,male,asymptomatic,115.0,260.0,no,hypertrophy,185,no,0.0,upsloping,0,3,no disease
+65,male,asymptomatic,145.0,0.0,?,abnormal,67,no,?,?,?,6,disease
+41,female,atypical angina,130.0,245.0,no,normal,150,no,0.0,?,?,?,no disease
+48,female,atypical angina,?,308.0,no,abnormal,?,?,2.0,upsloping,?,?,no disease
+36,male,atypical angina,120.0,166.0,no,normal,180,no,0.0,?,?,?,no disease
+56,male,atypical angina,130.0,221.0,no,hypertrophy,163,no,0.0,upsloping,0,7,no disease
+49,female,atypical angina,110.0,?,no,normal,160,no,0.0,?,?,?,no disease
+64,male,typical angina,110.0,211.0,no,hypertrophy,144,yes,1.8,flat,0,3,no disease
+51,female,asymptomatic,160.0,303.0,no,normal,150,yes,1.0,flat,?,?,disease
+49,female,atypical angina,134.0,271.0,no,normal,162,no,0.0,flat,0,3,no disease
+52,female,non-anginal pain,125.0,272.0,no,normal,139,no,0.0,?,?,?,no disease
+46,male,asymptomatic,110.0,240.0,no,abnormal,140,no,0.0,?,?,3,no disease
+64,female,asymptomatic,200.0,0.0,no,normal,140,yes,1.0,flat,?,3,disease
+66,male,asymptomatic,140.0,?,no,normal,94,yes,1.0,flat,?,?,disease
+55,male,non-anginal pain,?,245.0,yes,abnormal,?,?,?,?,?,?,disease
+42,male,atypical angina,120.0,198.0,no,normal,155,no,0.0,?,?,?,no disease
+54,male,typical angina,120.0,171.0,no,normal,137,no,2.0,upsloping,?,?,no disease
+58,male,non-anginal pain,112.0,230.0,no,hypertrophy,165,no,2.5,flat,1,7,disease
+55,male,atypical angina,130.0,262.0,no,normal,155,no,0.0,upsloping,0,3,no disease
+50,female,non-anginal pain,120.0,219.0,no,normal,158,no,1.6,flat,0,3,no disease
+48,female,atypical angina,120.0,284.0,no,normal,120,no,0.0,?,?,?,no disease
+56,female,atypical angina,140.0,294.0,no,hypertrophy,153,no,1.3,flat,0,3,no disease
+51,male,asymptomatic,130.0,179.0,no,normal,100,no,0.0,?,?,7,no disease
+28,male,atypical angina,130.0,132.0,no,hypertrophy,185,no,0.0,?,?,?,no disease
+46,male,asymptomatic,120.0,231.0,no,normal,115,yes,0.0,?,?,?,disease
+52,female,atypical angina,120.0,210.0,no,normal,148,no,0.0,?,?,?,no disease
+42,male,asymptomatic,105.0,0.0,?,normal,128,yes,-1.5,downsloping,?,?,disease
+48,male,atypical angina,140.0,238.0,no,normal,118,no,0.0,?,?,?,no disease
+45,male,non-anginal pain,135.0,?,no,normal,110,no,0.0,?,?,?,no disease
+66,male,non-anginal pain,120.0,0.0,no,abnormal,120,no,-0.5,upsloping,?,?,no disease
+43,male,asymptomatic,140.0,288.0,no,normal,135,yes,2.0,flat,?,?,disease
+43,male,asymptomatic,115.0,303.0,no,normal,181,no,1.2,flat,0,3,no disease
+63,male,asymptomatic,150.0,223.0,no,normal,115,no,0.0,?,?,?,disease
+32,male,asymptomatic,118.0,529.0,no,normal,130,no,0.0,?,?,?,disease
+50,female,asymptomatic,110.0,254.0,no,hypertrophy,159,no,0.0,upsloping,0,3,no disease
+71,female,atypical angina,160.0,302.0,no,normal,162,no,0.4,upsloping,2,3,no disease
+76,female,non-anginal pain,140.0,197.0,no,abnormal,116,no,1.1,flat,0,3,no disease
+51,female,non-anginal pain,150.0,200.0,no,normal,120,no,0.5,upsloping,?,?,no disease
+49,male,atypical angina,130.0,266.0,no,normal,171,no,0.6,upsloping,0,3,no disease
+63,male,asymptomatic,100.0,0.0,?,normal,109,no,-0.9,flat,?,?,disease
+60,female,non-anginal pain,120.0,178.0,yes,normal,96,no,0.0,upsloping,0,3,no disease
+48,male,non-anginal pain,110.0,211.0,no,normal,138,no,0.0,?,?,6,no disease
+46,male,asymptomatic,110.0,238.0,no,abnormal,140,yes,1.0,flat,?,3,no disease
+59,male,asymptomatic,140.0,?,no,normal,140,no,0.0,?,0,?,no disease
+53,female,non-anginal pain,120.0,274.0,no,normal,130,no,0.0,?,?,?,no disease
+35,male,atypical angina,120.0,308.0,no,hypertrophy,180,no,0.0,?,?,?,no disease
+41,male,atypical angina,110.0,235.0,no,normal,153,no,0.0,upsloping,0,3,no disease
+56,male,non-anginal pain,130.0,?,no,normal,114,no,0.0,?,?,?,no disease
+60,female,typical angina,150.0,240.0,no,normal,171,no,0.9,upsloping,0,3,no disease
+47,male,non-anginal pain,130.0,253.0,no,normal,179,no,0.0,upsloping,0,3,no disease
+61,male,asymptomatic,110.0,0.0,?,normal,113,no,1.4,flat,?,?,disease
+54,female,atypical angina,120.0,221.0,no,normal,138,no,1.0,upsloping,?,?,no disease
+54,male,atypical angina,120.0,238.0,no,normal,154,no,0.0,?,?,?,no disease
+55,male,atypical angina,145.0,326.0,no,normal,155,no,0.0,?,?,?,no disease
+64,male,asymptomatic,128.0,263.0,no,normal,105,yes,0.2,flat,1,7,no disease
+49,female,non-anginal pain,160.0,180.0,no,normal,156,no,1.0,flat,?,?,disease
+41,male,asymptomatic,104.0,0.0,no,abnormal,111,no,0.0,?,?,?,no disease
+76,male,non-anginal pain,104.0,?,no,hypertrophy,120,no,3.5,downsloping,?,?,disease
+62,female,asymptomatic,138.0,294.0,yes,normal,106,no,1.9,flat,3,3,disease
+69,male,non-anginal pain,?,271.0,no,hypertrophy,?,?,?,?,?,?,no disease
+34,male,atypical angina,98.0,220.0,no,normal,150,no,0.0,?,?,?,no disease
+48,male,asymptomatic,160.0,268.0,no,normal,103,yes,1.0,flat,?,?,disease
+40,male,non-anginal pain,106.0,240.0,no,normal,80,yes,0.0,?,?,7,no disease
+56,male,atypical angina,120.0,240.0,no,normal,169,no,0.0,downsloping,0,3,no disease
+36,male,non-anginal pain,112.0,340.0,no,normal,184,no,1.0,flat,?,3,no disease
+42,male,non-anginal pain,130.0,180.0,no,normal,150,no,0.0,upsloping,0,3,no disease
+53,male,non-anginal pain,130.0,246.0,yes,hypertrophy,173,no,0.0,upsloping,3,3,no disease
+59,male,asymptomatic,140.0,274.0,no,normal,154,yes,2.0,flat,?,?,no disease
+54,female,atypical angina,150.0,230.0,no,normal,130,no,0.0,?,?,?,no disease
+56,male,atypical angina,120.0,236.0,no,normal,178,no,0.8,upsloping,0,3,no disease
+42,male,non-anginal pain,120.0,228.0,no,normal,152,yes,1.5,flat,?,?,no disease
+74,male,non-anginal pain,?,0.0,no,normal,?,?,?,?,?,?,no disease
+52,male,atypical angina,120.0,284.0,no,normal,118,no,0.0,?,?,?,no disease
+57,male,asymptomatic,130.0,207.0,no,abnormal,96,yes,1.0,flat,?,?,no disease
+37,male,non-anginal pain,130.0,250.0,no,normal,187,no,3.5,downsloping,0,3,no disease
+57,male,asymptomatic,140.0,192.0,no,normal,148,no,0.4,flat,0,6,no disease
+58,female,typical angina,150.0,283.0,yes,hypertrophy,162,no,1.0,upsloping,0,3,no disease
+58,female,asymptomatic,130.0,197.0,no,normal,131,no,0.6,flat,0,3,no disease
+69,male,typical angina,160.0,234.0,yes,hypertrophy,131,no,0.1,flat,1,3,no disease
+72,male,non-anginal pain,160.0,0.0,?,hypertrophy,114,no,1.6,flat,2,?,no disease
+58,male,asymptomatic,?,385.0,yes,hypertrophy,?,?,?,?,?,?,no disease
+53,male,non-anginal pain,130.0,197.0,yes,hypertrophy,152,no,1.2,downsloping,0,3,no disease
+54,male,atypical angina,160.0,305.0,no,normal,175,no,0.0,?,?,?,no disease
+51,female,asymptomatic,114.0,258.0,yes,hypertrophy,96,no,1.0,upsloping,?,?,no disease
+53,male,asymptomatic,142.0,226.0,no,hypertrophy,111,yes,0.0,upsloping,0,7,no disease
+63,female,atypical angina,140.0,195.0,no,normal,179,no,0.0,upsloping,2,3,no disease
+49,male,typical angina,130.0,0.0,no,abnormal,145,no,3.0,flat,?,?,disease
+51,female,non-anginal pain,120.0,295.0,no,hypertrophy,157,no,0.6,upsloping,0,3,no disease
+51,male,asymptomatic,?,227.0,yes,abnormal,?,?,?,?,?,?,no disease
+53,male,non-anginal pain,120.0,195.0,no,normal,140,no,0.0,?,?,?,no disease
+39,male,non-anginal pain,140.0,321.0,no,hypertrophy,182,no,0.0,upsloping,0,3,no disease
+54,male,non-anginal pain,150.0,?,no,normal,122,no,0.0,?,?,?,no disease
+58,male,non-anginal pain,105.0,240.0,no,hypertrophy,154,yes,0.6,flat,0,7,no disease
+48,female,asymptomatic,120.0,254.0,no,abnormal,110,no,0.0,?,?,?,no disease
+44,male,non-anginal pain,130.0,233.0,no,normal,179,yes,0.4,upsloping,0,3,no disease
+61,male,non-anginal pain,150.0,243.0,yes,normal,137,yes,1.0,flat,0,3,no disease
+43,male,atypical angina,142.0,207.0,no,normal,138,no,0.0,?,?,?,no disease
+52,male,non-anginal pain,138.0,223.0,no,normal,169,no,0.0,upsloping,?,3,no disease
+48,male,asymptomatic,?,272.0,no,abnormal,?,?,?,?,?,?,no disease
+51,male,non-anginal pain,135.0,160.0,no,normal,150,no,2.0,flat,?,?,disease
+42,male,atypical angina,120.0,196.0,no,normal,150,no,0.0,?,?,?,no disease
+37,male,asymptomatic,120.0,223.0,no,normal,168,no,0.0,?,?,3,no disease
+51,female,non-anginal pain,140.0,308.0,no,hypertrophy,142,no,1.5,upsloping,1,3,no disease
+55,male,atypical angina,140.0,0.0,?,abnormal,150,no,0.2,upsloping,?,?,no disease
+48,male,asymptomatic,122.0,222.0,no,hypertrophy,186,no,0.0,upsloping,0,3,no disease
+72,male,asymptomatic,160.0,?,yes,hypertrophy,130,no,1.5,?,?,?,disease
+63,male,typical angina,145.0,233.0,yes,hypertrophy,150,no,2.3,downsloping,0,6,no disease
+40,male,non-anginal pain,130.0,215.0,no,normal,138,no,0.0,?,?,?,no disease
+62,male,non-anginal pain,120.0,220.0,no,hypertrophy,86,no,0.0,?,?,?,no disease
+41,male,asymptomatic,150.0,171.0,no,normal,128,yes,1.5,flat,?,?,no disease
+43,male,asymptomatic,150.0,247.0,no,normal,171,no,1.5,upsloping,0,3,no disease
+49,male,non-anginal pain,140.0,187.0,no,normal,172,no,0.0,?,?,?,no disease
+68,female,non-anginal pain,120.0,211.0,no,hypertrophy,115,no,1.5,flat,0,3,no disease
+57,female,atypical angina,130.0,236.0,no,hypertrophy,174,no,0.0,flat,1,3,disease
+52,female,non-anginal pain,136.0,196.0,no,hypertrophy,169,no,0.1,flat,0,3,no disease
+45,female,atypical angina,112.0,160.0,no,normal,138,no,0.0,flat,0,3,no disease
+57,male,non-anginal pain,150.0,168.0,no,normal,174,no,1.6,upsloping,0,3,no disease
+48,female,atypical angina,120.0,?,yes,abnormal,148,no,0.0,?,?,?,no disease
+37,male,asymptomatic,130.0,315.0,no,normal,158,no,0.0,?,?,?,no disease
+69,female,typical angina,140.0,239.0,no,normal,151,no,1.8,upsloping,2,3,no disease
+51,male,asymptomatic,?,218.0,yes,hypertrophy,?,?,?,?,?,?,no disease
+63,male,asymptomatic,160.0,230.0,yes,normal,105,yes,1.0,flat,?,?,disease
+49,male,asymptomatic,140.0,?,no,normal,130,no,0.0,?,?,?,no disease
+62,male,atypical angina,140.0,271.0,no,normal,152,no,1.0,upsloping,?,?,no disease
+71,male,non-anginal pain,?,221.0,no,normal,?,?,?,?,?,?,disease
+40,male,non-anginal pain,130.0,281.0,no,normal,167,no,0.0,?,?,?,no disease
+62,male,atypical angina,120.0,281.0,no,hypertrophy,103,no,1.4,flat,1,7,disease
+31,female,atypical angina,100.0,219.0,no,abnormal,150,no,0.0,?,?,?,no disease
+46,female,asymptomatic,138.0,243.0,no,hypertrophy,152,yes,0.0,flat,0,3,no disease
+69,male,asymptomatic,122.0,216.0,yes,hypertrophy,84,yes,0.0,?,?,7,disease
+49,male,atypical angina,100.0,253.0,no,normal,174,no,0.0,?,?,?,no disease
+38,male,asymptomatic,110.0,289.0,no,normal,105,yes,1.5,downsloping,?,?,disease
+57,male,asymptomatic,132.0,207.0,no,normal,168,yes,0.0,upsloping,0,7,no disease
+50,male,atypical angina,140.0,216.0,no,normal,170,no,0.0,?,?,3,no disease
+44,male,atypical angina,130.0,219.0,no,hypertrophy,188,no,0.0,upsloping,0,3,no disease
+39,male,atypical angina,190.0,241.0,no,normal,106,no,0.0,?,?,?,no disease
+54,female,atypical angina,120.0,230.0,yes,normal,140,no,0.0,?,?,?,no disease
+52,male,asymptomatic,130.0,225.0,no,normal,120,yes,2.0,flat,?,?,disease
+51,female,non-anginal pain,130.0,220.0,no,normal,160,yes,2.0,upsloping,?,?,no disease
+53,female,atypical angina,140.0,216.0,no,normal,142,yes,2.0,flat,?,?,no disease
+29,male,atypical angina,140.0,?,no,normal,170,no,0.0,?,?,?,no disease
+65,female,non-anginal pain,140.0,417.0,yes,hypertrophy,157,no,0.8,upsloping,1,3,no disease
+57,female,asymptomatic,180.0,347.0,no,abnormal,126,yes,0.8,flat,?,?,no disease
+51,male,non-anginal pain,94.0,227.0,no,normal,154,yes,0.0,upsloping,1,7,no disease
+55,male,asymptomatic,150.0,160.0,no,abnormal,150,no,0.0,?,?,?,no disease
+62,male,atypical angina,128.0,208.0,yes,hypertrophy,140,no,0.0,upsloping,0,3,no disease
+43,female,non-anginal pain,150.0,?,no,normal,175,no,0.0,?,?,3,no disease
+46,female,non-anginal pain,142.0,177.0,no,hypertrophy,160,yes,1.4,downsloping,0,3,no disease
+50,male,asymptomatic,150.0,215.0,no,normal,140,yes,0.0,?,?,?,no disease
+56,male,atypical angina,124.0,224.0,yes,normal,161,no,2.0,flat,?,?,no disease
+46,male,asymptomatic,110.0,202.0,no,normal,150,yes,0.0,?,?,?,disease
+50,male,asymptomatic,140.0,129.0,no,normal,135,no,0.0,?,?,?,no disease
+55,male,non-anginal pain,?,?,no,abnormal,?,?,?,?,?,?,no disease
+39,male,atypical angina,120.0,204.0,no,normal,145,no,0.0,?,?,?,no disease
+37,male,atypical angina,130.0,283.0,no,abnormal,98,no,0.0,?,?,?,no disease
+43,male,asymptomatic,115.0,0.0,no,normal,145,yes,2.0,flat,?,7,disease
+39,female,non-anginal pain,138.0,220.0,no,normal,152,no,0.0,flat,0,3,no disease
+65,male,typical angina,?,252.0,no,normal,?,?,?,?,?,?,no disease
+43,male,typical angina,120.0,291.0,no,abnormal,155,no,0.0,?,?,?,disease
+58,male,non-anginal pain,132.0,224.0,no,hypertrophy,173,no,3.2,upsloping,2,7,disease
+56,male,asymptomatic,140.0,0.0,?,normal,121,yes,1.8,upsloping,?,?,disease
+52,male,atypical angina,120.0,325.0,no,normal,172,no,0.2,upsloping,0,3,no disease
+54,male,asymptomatic,140.0,239.0,no,normal,160,no,1.2,upsloping,0,3,no disease
+41,male,atypical angina,125.0,269.0,no,normal,144,no,0.0,?,?,?,no disease
+46,male,atypical angina,140.0,275.0,no,normal,165,yes,0.0,?,?,?,no disease
+45,male,non-anginal pain,?,236.0,no,normal,?,?,?,?,?,?,no disease
+58,female,non-anginal pain,120.0,340.0,no,normal,172,no,0.0,upsloping,0,3,no disease
+47,male,asymptomatic,110.0,0.0,?,abnormal,149,no,2.1,upsloping,?,?,disease
+51,male,asymptomatic,140.0,299.0,no,normal,173,yes,1.6,upsloping,0,7,disease
+34,female,atypical angina,118.0,210.0,no,normal,192,no,0.7,upsloping,0,3,no disease
+52,male,typical angina,152.0,298.0,yes,normal,178,no,1.2,flat,0,7,no disease
+47,female,non-anginal pain,130.0,?,no,normal,145,no,2.0,flat,?,?,no disease
+37,female,non-anginal pain,120.0,215.0,no,normal,170,no,0.0,upsloping,0,3,no disease
+44,male,asymptomatic,130.0,209.0,no,abnormal,127,no,0.0,?,?,?,no disease
+44,male,atypical angina,130.0,215.0,no,normal,135,no,0.0,?,?,?,no disease
+46,male,asymptomatic,115.0,0.0,no,normal,113,yes,1.5,flat,?,7,disease
+42,female,asymptomatic,102.0,265.0,no,hypertrophy,122,no,0.6,flat,0,3,no disease
+58,male,asymptomatic,132.0,458.0,yes,normal,69,no,1.0,downsloping,?,?,no disease
+41,male,atypical angina,120.0,295.0,no,normal,170,no,0.0,?,?,?,no disease
+65,male,asymptomatic,170.0,263.0,yes,normal,112,yes,2.0,flat,?,?,disease
+62,female,asymptomatic,124.0,209.0,no,normal,163,no,0.0,upsloping,0,3,no disease
+63,female,non-anginal pain,135.0,252.0,no,hypertrophy,172,no,0.0,upsloping,0,3,no disease
+51,female,atypical angina,160.0,194.0,no,normal,170,no,0.0,?,?,?,no disease
+45,female,atypical angina,130.0,237.0,no,normal,170,no,0.0,?,?,?,no disease
+46,male,atypical angina,101.0,197.0,yes,normal,156,no,0.0,upsloping,0,7,no disease
+54,male,atypical angina,108.0,309.0,no,normal,156,no,0.0,upsloping,0,7,no disease
+46,male,non-anginal pain,150.0,163.0,?,normal,116,no,0.0,?,?,?,no disease
+66,male,atypical angina,160.0,246.0,no,normal,120,yes,0.0,flat,3,6,disease
+39,male,non-anginal pain,120.0,339.0,no,normal,170,no,0.0,?,?,?,no disease
+61,male,asymptomatic,130.0,0.0,no,hypertrophy,115,no,0.0,flat,?,7,disease
+52,male,typical angina,118.0,186.0,no,hypertrophy,190,no,0.0,flat,0,6,no disease
+44,male,non-anginal pain,140.0,235.0,no,hypertrophy,180,no,0.0,upsloping,0,3,no disease
+65,female,non-anginal pain,160.0,360.0,no,hypertrophy,151,no,0.8,upsloping,0,3,no disease
+66,male,asymptomatic,120.0,302.0,no,hypertrophy,151,no,0.4,flat,0,3,no disease
+56,male,typical angina,120.0,193.0,no,hypertrophy,162,no,1.9,flat,0,7,no disease
+64,female,asymptomatic,180.0,325.0,no,normal,154,yes,0.0,upsloping,0,3,no disease
+39,male,asymptomatic,110.0,273.0,no,normal,132,no,0.0,?,?,?,no disease
+63,male,asymptomatic,126.0,0.0,no,abnormal,120,no,1.5,downsloping,?,?,no disease
+55,male,non-anginal pain,110.0,277.0,no,normal,160,no,0.0,?,?,?,no disease
+59,male,non-anginal pain,180.0,213.0,no,normal,100,no,0.0,?,?,?,no disease
+60,male,asymptomatic,120.0,0.0,no,normal,133,yes,2.0,upsloping,?,7,no disease
+41,male,asymptomatic,120.0,336.0,no,normal,118,yes,3.0,flat,?,?,disease
+68,male,non-anginal pain,118.0,277.0,no,normal,151,no,1.0,upsloping,1,7,no disease
+41,female,atypical angina,126.0,306.0,no,normal,163,no,0.0,upsloping,0,3,no disease
+61,female,atypical angina,140.0,298.0,yes,normal,120,yes,0.0,?,?,7,no disease
+53,male,asymptomatic,124.0,260.0,no,abnormal,112,yes,3.0,flat,?,?,no disease
+33,male,non-anginal pain,120.0,298.0,no,normal,185,no,0.0,?,?,?,no disease
+48,female,non-anginal pain,120.0,195.0,no,normal,125,no,0.0,?,?,?,no disease
+49,female,atypical angina,124.0,201.0,no,normal,164,no,0.0,?,?,?,no disease
+39,male,atypical angina,130.0,?,no,normal,120,no,0.0,?,?,?,no disease
+69,male,asymptomatic,130.0,0.0,yes,abnormal,129,no,1.0,flat,?,6,disease
+42,male,typical angina,148.0,244.0,no,hypertrophy,178,no,0.8,upsloping,2,3,no disease
+54,male,non-anginal pain,120.0,217.0,no,normal,137,no,0.0,?,?,?,no disease
+43,female,atypical angina,120.0,201.0,no,normal,165,no,0.0,?,?,?,no disease
+44,male,atypical angina,120.0,184.0,no,normal,142,no,1.0,flat,?,?,no disease
+64,female,non-anginal pain,140.0,313.0,no,normal,133,no,0.2,upsloping,0,7,no disease
+39,male,atypical angina,120.0,?,no,abnormal,146,no,2.0,upsloping,?,?,no disease
+59,male,asymptomatic,135.0,234.0,no,normal,161,no,0.5,flat,0,7,no disease
+59,male,asymptomatic,138.0,271.0,no,hypertrophy,182,no,0.0,upsloping,0,3,no disease
+64,female,asymptomatic,130.0,303.0,no,normal,122,no,2.0,flat,2,3,no disease
+54,male,non-anginal pain,125.0,273.0,no,hypertrophy,152,no,0.5,downsloping,1,3,no disease
+64,male,asymptomatic,120.0,246.0,no,hypertrophy,96,yes,2.2,downsloping,1,3,disease
+53,male,atypical angina,140.0,320.0,no,normal,162,no,0.0,?,?,?,no disease
+52,female,asymptomatic,130.0,180.0,no,normal,140,yes,1.5,flat,?,?,no disease
+57,male,asymptomatic,110.0,201.0,no,normal,126,yes,1.5,flat,0,6,no disease
+56,male,non-anginal pain,120.0,0.0,no,normal,97,no,0.0,flat,?,7,no disease
+56,male,asymptomatic,130.0,203.0,yes,normal,98,no,1.5,flat,?,7,disease
+66,male,atypical angina,160.0,246.0,no,normal,120,yes,0.0,flat,3,6,disease
+44,male,atypical angina,120.0,263.0,no,normal,173,no,0.0,upsloping,0,7,no disease
+41,female,non-anginal pain,112.0,268.0,no,hypertrophy,172,yes,0.0,upsloping,0,3,no disease
+38,male,non-anginal pain,100.0,0.0,?,normal,179,no,-1.1,upsloping,?,?,no disease
+67,female,non-anginal pain,152.0,277.0,no,normal,172,no,0.0,upsloping,1,3,no disease
+53,male,asymptomatic,120.0,246.0,no,normal,116,yes,0.0,?,?,?,disease
+55,male,atypical angina,140.0,196.0,no,normal,150,no,0.0,?,?,7,no disease
+38,male,non-anginal pain,145.0,292.0,no,normal,130,no,0.0,?,?,?,no disease
+65,female,non-anginal pain,155.0,269.0,no,normal,148,no,0.8,upsloping,0,3,no disease
+44,female,non-anginal pain,118.0,242.0,no,normal,149,no,0.3,flat,1,3,no disease
+48,female,asymptomatic,108.0,163.0,no,normal,175,no,2.0,upsloping,?,?,no disease
+56,male,atypical angina,130.0,184.0,no,normal,100,no,0.0,?,?,?,no disease
+48,male,non-anginal pain,124.0,255.0,yes,normal,175,no,0.0,upsloping,2,3,no disease
+52,male,atypical angina,134.0,201.0,no,normal,158,no,0.8,upsloping,1,3,no disease
+59,male,atypical angina,140.0,221.0,no,normal,164,yes,0.0,upsloping,0,3,no disease
+65,male,asymptomatic,130.0,275.0,no,abnormal,115,yes,1.0,flat,?,?,disease
+52,male,asymptomatic,108.0,233.0,yes,normal,147,no,0.1,upsloping,3,7,no disease
+32,male,atypical angina,110.0,225.0,no,normal,184,no,0.0,?,?,?,no disease
+34,female,atypical angina,130.0,161.0,no,normal,190,no,0.0,?,?,?,no disease
+53,male,asymptomatic,140.0,243.0,no,normal,155,no,0.0,?,?,?,no disease
+54,male,asymptomatic,110.0,239.0,no,normal,126,yes,2.8,flat,1,7,disease
+52,male,atypical angina,140.0,100.0,no,normal,138,yes,0.0,?,?,?,no disease
+43,female,atypical angina,120.0,266.0,no,normal,118,no,0.0,?,?,?,no disease
+39,male,asymptomatic,130.0,307.0,no,normal,140,no,0.0,?,?,?,no disease
+66,female,non-anginal pain,146.0,278.0,no,hypertrophy,152,no,0.0,flat,1,3,no disease
+46,male,non-anginal pain,120.0,230.0,no,normal,150,no,0.0,?,?,?,no disease
+53,male,atypical angina,130.0,0.0,?,abnormal,120,no,0.7,downsloping,?,?,no disease
+47,male,asymptomatic,112.0,204.0,no,normal,143,no,0.1,upsloping,0,3,no disease
+58,male,non-anginal pain,132.0,224.0,no,hypertrophy,173,no,3.2,upsloping,2,7,disease
+44,male,non-anginal pain,120.0,226.0,no,normal,169,no,0.0,upsloping,0,3,no disease
+48,male,atypical angina,130.0,245.0,no,hypertrophy,180,no,0.2,flat,0,3,no disease
+59,male,asymptomatic,154.0,0.0,no,abnormal,131,yes,1.5,?,0,?,no disease
+50,male,non-anginal pain,129.0,196.0,no,normal,163,no,0.0,upsloping,0,3,no disease
+54,male,atypical angina,120.0,246.0,no,normal,110,no,0.0,?,?,?,no disease
+42,male,atypical angina,120.0,295.0,no,normal,162,no,0.0,upsloping,0,3,no disease
+40,male,atypical angina,140.0,289.0,no,normal,172,no,0.0,?,?,?,no disease
+66,male,asymptomatic,140.0,?,no,normal,94,yes,1.0,flat,?,?,disease
+65,male,typical angina,138.0,282.0,yes,hypertrophy,174,no,1.4,flat,1,3,disease
+54,female,atypical angina,160.0,312.0,no,normal,130,no,0.0,?,?,?,no disease
+59,male,atypical angina,140.0,287.0,no,normal,150,no,0.0,?,?,?,no disease
+49,male,asymptomatic,120.0,297.0,?,normal,132,no,1.0,flat,?,?,no disease
+41,female,atypical angina,110.0,250.0,no,abnormal,142,no,0.0,?,?,?,no disease
+53,female,atypical angina,113.0,468.0,?,normal,127,no,0.0,?,?,?,no disease
+58,male,atypical angina,120.0,284.0,no,hypertrophy,160,no,1.8,flat,0,3,disease
+57,male,asymptomatic,110.0,197.0,no,hypertrophy,100,no,0.0,?,?,?,no disease
+53,female,asymptomatic,138.0,234.0,no,hypertrophy,160,no,0.0,upsloping,0,3,no disease
+58,male,non-anginal pain,140.0,211.0,yes,hypertrophy,165,no,0.0,upsloping,0,3,no disease
+58,male,atypical angina,126.0,0.0,yes,normal,110,yes,2.0,flat,?,?,disease
+41,female,atypical angina,105.0,198.0,no,normal,168,no,0.0,upsloping,1,3,no disease
+35,male,atypical angina,150.0,264.0,no,normal,168,no,0.0,?,?,?,no disease
+45,female,atypical angina,130.0,234.0,no,hypertrophy,175,no,0.6,flat,0,3,no disease
+49,female,asymptomatic,130.0,269.0,no,normal,163,no,0.0,upsloping,0,3,no disease
+55,male,asymptomatic,142.0,228.0,no,abnormal,149,yes,2.5,upsloping,?,?,disease
+48,male,asymptomatic,160.0,268.0,no,normal,103,yes,1.0,flat,?,?,disease
+48,male,atypical angina,100.0,?,no,normal,100,no,0.0,?,?,?,no disease
+58,male,non-anginal pain,140.0,179.0,no,normal,160,no,0.0,?,?,?,no disease
+34,male,typical angina,118.0,182.0,no,hypertrophy,174,no,0.0,upsloping,0,3,no disease
+64,male,asymptomatic,145.0,212.0,no,hypertrophy,132,no,2.0,flat,2,6,disease
+32,male,atypical angina,125.0,254.0,no,normal,155,no,0.0,?,?,?,no disease
+43,male,non-anginal pain,130.0,315.0,no,normal,162,no,1.9,upsloping,1,3,no disease
+58,male,atypical angina,125.0,220.0,no,normal,144,no,0.4,flat,?,7,no disease
+61,male,asymptomatic,?,292.0,no,abnormal,?,?,?,?,?,?,disease
+54,male,non-anginal pain,?,203.0,no,abnormal,?,?,?,?,?,?,no disease
+55,male,asymptomatic,140.0,229.0,no,normal,110,yes,0.5,flat,?,?,no disease
+51,male,atypical angina,125.0,188.0,no,normal,145,no,0.0,?,?,?,no disease
+51,male,non-anginal pain,?,339.0,no,normal,?,?,?,?,?,?,disease
+67,female,asymptomatic,106.0,223.0,no,normal,142,no,0.3,upsloping,2,3,no disease
+63,male,asymptomatic,185.0,0.0,no,normal,98,yes,0.0,upsloping,?,7,disease
+45,male,asymptomatic,120.0,225.0,no,normal,140,no,0.0,?,?,?,no disease
+46,male,asymptomatic,180.0,280.0,no,abnormal,120,no,0.0,?,?,?,no disease
+55,female,atypical angina,122.0,320.0,no,normal,155,no,0.0,?,?,?,no disease
+62,male,non-anginal pain,130.0,231.0,no,normal,146,no,1.8,flat,3,7,no disease
+45,female,atypical angina,180.0,?,no,normal,180,no,0.0,?,?,?,no disease
+66,female,asymptomatic,178.0,228.0,yes,normal,165,yes,1.0,flat,2,7,disease
+57,male,atypical angina,140.0,260.0,yes,normal,140,no,0.0,?,?,6,no disease
+52,male,atypical angina,160.0,196.0,no,normal,165,no,0.0,?,?,?,no disease
+57,female,asymptomatic,128.0,303.0,no,hypertrophy,159,no,0.0,upsloping,1,3,no disease
+38,male,typical angina,120.0,231.0,no,normal,182,yes,3.8,flat,0,7,disease
+45,male,non-anginal pain,110.0,0.0,?,normal,138,no,-0.1,upsloping,?,?,no disease
+41,male,non-anginal pain,130.0,214.0,no,hypertrophy,168,no,2.0,flat,0,3,no disease
+35,female,asymptomatic,138.0,183.0,no,normal,182,no,1.4,upsloping,0,3,no disease
+52,male,non-anginal pain,172.0,199.0,yes,normal,162,no,0.5,upsloping,0,7,no disease
+51,female,non-anginal pain,110.0,190.0,no,normal,120,no,0.0,?,?,?,no disease
+38,male,atypical angina,140.0,297.0,no,normal,150,no,0.0,?,?,?,no disease
+54,female,atypical angina,132.0,288.0,yes,hypertrophy,159,yes,0.0,upsloping,1,3,no disease
+54,female,atypical angina,130.0,253.0,no,abnormal,155,no,0.0,?,?,?,no disease
+51,male,asymptomatic,140.0,261.0,no,hypertrophy,186,yes,0.0,upsloping,0,3,no disease
+61,male,asymptomatic,125.0,292.0,no,abnormal,115,yes,0.0,?,?,?,no disease
+58,male,atypical angina,120.0,284.0,no,hypertrophy,160,no,1.8,flat,0,3,disease
+61,female,asymptomatic,130.0,294.0,no,abnormal,120,yes,1.0,flat,?,?,no disease
+59,male,asymptomatic,178.0,0.0,yes,hypertrophy,120,yes,0.0,?,?,7,disease
+52,male,asymptomatic,160.0,331.0,no,normal,94,yes,2.5,?,?,?,disease
+54,female,atypical angina,140.0,309.0,?,abnormal,140,no,0.0,?,?,?,no disease
+54,female,non-anginal pain,160.0,201.0,no,normal,163,no,0.0,upsloping,1,3,no disease
+41,male,asymptomatic,110.0,172.0,no,hypertrophy,158,no,0.0,upsloping,0,7,disease
+62,male,typical angina,?,139.0,no,abnormal,?,?,?,?,?,?,no disease
+54,female,non-anginal pain,135.0,304.0,yes,normal,170,no,0.0,upsloping,0,3,no disease
+56,male,atypical angina,126.0,166.0,no,abnormal,140,no,0.0,?,?,?,no disease
+39,male,asymptomatic,118.0,219.0,no,normal,140,no,1.2,flat,0,7,disease
+57,female,typical angina,130.0,308.0,no,normal,98,no,1.0,flat,?,?,no disease
+54,male,asymptomatic,150.0,365.0,no,abnormal,134,no,1.0,upsloping,?,?,no disease
+43,female,atypical angina,150.0,186.0,no,normal,154,no,0.0,?,?,?,no disease
+59,male,non-anginal pain,150.0,212.0,yes,normal,157,no,1.6,upsloping,0,3,no disease
+62,male,atypical angina,?,0.0,no,normal,?,?,?,?,?,?,no disease
+69,male,asymptomatic,130.0,0.0,yes,abnormal,129,no,1.0,flat,?,6,disease
+54,female,asymptomatic,127.0,333.0,yes,abnormal,154,no,0.0,?,?,?,disease
+56,male,non-anginal pain,130.0,276.0,no,normal,128,yes,1.0,upsloping,?,6,no disease
+48,female,asymptomatic,150.0,227.0,no,normal,130,yes,1.0,flat,?,?,no disease
+54,male,atypical angina,110.0,208.0,no,normal,142,no,0.0,?,?,?,no disease
+56,male,asymptomatic,120.0,85.0,no,normal,140,no,0.0,?,?,?,no disease
+54,male,non-anginal pain,150.0,232.0,no,hypertrophy,165,no,1.6,upsloping,0,7,no disease
+50,male,atypical angina,120.0,168.0,no,normal,160,no,0.0,?,0,?,no disease
+50,female,atypical angina,110.0,202.0,no,normal,145,no,0.0,?,?,?,no disease
+60,male,asymptomatic,130.0,186.0,yes,hypertrophy,140,yes,0.5,flat,?,?,disease
+58,male,asymptomatic,135.0,222.0,no,normal,100,no,0.0,?,?,?,no disease
+55,female,atypical angina,130.0,394.0,no,hypertrophy,150,no,0.0,?,?,?,no disease
+54,female,atypical angina,120.0,273.0,no,normal,150,no,1.5,flat,?,?,no disease
+59,female,atypical angina,130.0,188.0,no,normal,124,no,1.0,flat,?,?,no disease
+55,female,atypical angina,132.0,342.0,no,normal,166,no,1.2,upsloping,0,3,no disease
+63,male,atypical angina,?,165.0,no,abnormal,?,?,?,?,?,?,no disease
+63,male,asymptomatic,140.0,187.0,no,hypertrophy,144,yes,4.0,upsloping,2,7,disease
+64,male,asymptomatic,130.0,223.0,no,abnormal,128,no,0.5,flat,?,?,no disease
+44,female,asymptomatic,120.0,218.0,no,abnormal,115,no,0.0,?,?,?,no disease
+53,male,atypical angina,120.0,?,no,normal,132,no,0.0,?,?,?,no disease
+50,female,asymptomatic,120.0,328.0,no,normal,110,yes,1.0,flat,?,?,no disease
+60,male,asymptomatic,125.0,0.0,?,normal,110,no,0.1,upsloping,2,?,disease
+56,male,asymptomatic,150.0,230.0,no,abnormal,124,yes,1.5,flat,?,?,disease
+48,male,asymptomatic,160.0,268.0,no,normal,103,yes,1.0,flat,?,?,disease
+45,male,asymptomatic,140.0,224.0,no,normal,144,no,0.0,?,?,?,no disease
+42,male,non-anginal pain,160.0,147.0,no,normal,146,no,0.0,?,?,?,no disease
+62,female,typical angina,160.0,193.0,no,normal,116,no,0.0,?,?,?,no disease
+75,male,asymptomatic,160.0,310.0,yes,normal,112,yes,2.0,downsloping,?,7,no disease
+57,male,asymptomatic,140.0,0.0,no,normal,120,yes,2.0,flat,?,6,disease
+38,female,atypical angina,120.0,275.0,?,normal,129,no,0.0,?,?,?,no disease
+51,male,typical angina,125.0,213.0,no,hypertrophy,125,yes,1.4,upsloping,1,3,no disease
+42,male,non-anginal pain,134.0,240.0,?,normal,160,no,0.0,?,?,?,no disease
+54,male,atypical angina,160.0,195.0,no,abnormal,130,no,1.0,upsloping,?,?,no disease
+54,male,atypical angina,?,182.0,no,abnormal,?,?,?,?,?,?,no disease
+60,male,asymptomatic,152.0,0.0,no,abnormal,118,yes,0.0,?,?,7,no disease
+56,male,non-anginal pain,?,208.0,yes,abnormal,?,?,?,?,?,?,disease
+71,female,asymptomatic,112.0,149.0,no,normal,125,no,1.6,flat,0,3,no disease
+42,female,non-anginal pain,115.0,211.0,no,abnormal,137,no,0.0,?,?,?,no disease
+41,male,asymptomatic,112.0,250.0,no,normal,142,no,0.0,?,?,?,no disease
+44,male,atypical angina,120.0,220.0,no,normal,170,no,0.0,upsloping,0,3,no disease
+44,female,non-anginal pain,108.0,141.0,no,normal,175,no,0.6,flat,0,3,no disease
+35,female,asymptomatic,140.0,167.0,no,normal,150,no,0.0,?,?,?,no disease
+64,male,asymptomatic,120.0,0.0,yes,abnormal,106,no,2.0,flat,?,?,disease
+48,male,atypical angina,130.0,245.0,no,normal,160,no,0.0,?,?,?,no disease
+41,female,atypical angina,130.0,204.0,no,hypertrophy,172,no,1.4,upsloping,0,3,no disease
+54,male,asymptomatic,140.0,?,no,normal,118,yes,0.0,?,?,?,disease
+47,male,asymptomatic,140.0,276.0,yes,normal,125,yes,0.0,?,?,?,no disease
+47,male,atypical angina,160.0,263.0,no,normal,174,no,0.0,?,?,?,no disease
+67,female,non-anginal pain,115.0,564.0,no,hypertrophy,160,no,1.6,flat,0,7,no disease
+54,female,non-anginal pain,108.0,267.0,no,hypertrophy,167,no,0.0,upsloping,0,3,no disease
+29,male,atypical angina,120.0,243.0,no,normal,160,no,0.0,?,?,?,no disease
+55,female,atypical angina,110.0,344.0,no,abnormal,160,no,0.0,?,?,?,no disease
+50,male,atypical angina,170.0,209.0,no,abnormal,116,no,0.0,?,?,?,no disease
+42,male,atypical angina,150.0,268.0,no,normal,136,no,0.0,?,?,?,no disease
+58,male,asymptomatic,150.0,270.0,no,hypertrophy,111,yes,0.8,upsloping,0,7,disease
+74,female,atypical angina,120.0,269.0,no,hypertrophy,121,yes,0.2,upsloping,1,3,no disease
